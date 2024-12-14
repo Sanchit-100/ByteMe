@@ -1,0 +1,4 @@
+Customer{username='admin', password='1234', type=REGULAR, orderHistory=[]}
+Customer{username='testUser', password='testPassword', type=REGULAR, orderHistory=[]}
+Customer{username='sarthak', password='1234', type=REGULAR, orderHistory=[]}
+Customer{username='sanchit', password='1234', type=REGULAR, orderHistory=[Order{orderNumber=11, items=MenuItem{name="Chhole Bhature", price=50.0, category="Ok1", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-12-01 15:56:42, status=PENDING}]}

@@ -1,0 +1,10 @@
+Order{orderNumber=1, items=MenuItem{name="Burger", price=8.0, category="FastFood", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-11-21 22:09:38, status=CANCELLED}
+Order{orderNumber=2, items=MenuItem{name="Pizza", price=8.0, category="FastFood", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-11-22 01:06:14, status=CANCELLED}
+Order{orderNumber=3, items=MenuItem{name="Paratha", price=60.0, category="Meal", available=true}, specialRequests='Add extra butter', orderType=REGULAR, confirmationTime=2024-11-22 14:07:33, status=PENDING}
+Order{orderNumber=4, items=MenuItem{name="Pizza", price=20.0, category="FastFood", available=true}, specialRequests='Cheese Burst', orderType=REGULAR, confirmationTime=2024-11-22 14:08:14, status=PENDING}
+Order{orderNumber=6, items=MenuItem{name="Burger", price=8.0, category="FastFood", available=true}, specialRequests='Aloo tikki ', orderType=REGULAR, confirmationTime=2024-11-22 14:09:50, status=PENDING}
+Order{orderNumber=6, items=MenuItem{name="Pizza", price=20.0, category="FastFood", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-11-22 14:28:16, status=PENDING}
+Order{orderNumber=7, items=MenuItem{name="Burger", price=8.0, category="FastFood", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-11-22 14:45:58, status=PENDING}
+Order{orderNumber=9, items=MenuItem{name="Burger", price=8.0, category="FastFood", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-12-01 15:24:11, status=PREPARING}
+Order{orderNumber=9, items=MenuItem{name="Burger", price=8.0, category="FastFood", available=true}, specialRequests='Nope', orderType=REGULAR, confirmationTime=2024-11-22 14:46:47, status=DELIVERED}
+Order{orderNumber=11, items=MenuItem{name="Chhole Bhature", price=50.0, category="Ok1", available=true}, specialRequests='No', orderType=REGULAR, confirmationTime=2024-12-01 15:56:42, status=PENDING}

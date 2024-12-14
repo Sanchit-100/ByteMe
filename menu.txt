@@ -1,0 +1,7 @@
+MenuItem{name="Pizza", price=20.0, category="FastFood", available=true}
+MenuItem{name="Burger", price=8.0, category="FastFood", available=true}
+MenuItem{name="Biryani", price=200.0, category="Meal", available=true}
+MenuItem{name="Paratha", price=60.0, category="Meal", available=true}
+MenuItem{name="Taco", price=70.0, category="Mexican", available=false}
+MenuItem{name="Halwa", price=100.0, category="Sweet_Dish", available=true}
+MenuItem{name="Chhole Bhature", price=50.0, category="Ok1", available=true}
