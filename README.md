@@ -1,5 +1,6 @@
 # Canteen Management CLI+GUI
-![main_screen](assets/main_screen.png)
+![main_Screen](https://github.com/user-attachments/assets/0509cd30-d8a1-4a94-b1fb-58e04e272042)
+
 
 :star:**Please star the repository if you happen to like the project**
 
@@ -34,14 +35,20 @@
 
 The application provides a user-friendly GUI for managing menu items and viewing pending orders.
 
-### Main Menu Screen
-![main_screen](assets/main_screen.png)
+### Menu-CLI
+![menu_CLI](https://github.com/user-attachments/assets/2a0ef312-dcad-411a-9cd2-42ad1aef3186)
 
-### Menu Management Screen
-![menu_screen](assets/menu_screen.png)
 
-### Order Management Screen
-![order_screen](assets/order_screen.png)
+### Menu-GUI
+![Menu_GUI](https://github.com/user-attachments/assets/8d2a1440-474d-4f4e-94e4-aa7da058ca1a)
+
+
+### Orders-GUI
+![orders_GUI](https://github.com/user-attachments/assets/a10aab5e-33f6-40db-b831-74f31c00508c)
+
+### Sales-Report-CLI
+![report_CLI](https://github.com/user-attachments/assets/f3be22ac-fb91-49c8-830d-d423bfd84ca1)
+
 
 ## How to Run the Application
 1. Clone the repo: `git clone https://github.com/Sanchit-100/ByteMe.git`
